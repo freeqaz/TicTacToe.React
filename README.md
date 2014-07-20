@@ -14,3 +14,5 @@ Install Instructions
 4. Build app by invoking gulp: `gulp`
 5. Run web server (simple node file server): `node server.js`
 6. Connect to `localhost:8080`
+
+![Alt text](/TicTacToe.png?raw=true "TicTacToe.React Screenshot")
