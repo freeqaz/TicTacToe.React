@@ -124,12 +124,7 @@ var TicTacToe = React.createClass({
             'border-width': '3px',
             'border-color': 'black'
         };
-        var fontColor = {
-            'background-color': this.state.selectedColor,
-            'width': '193px',
-            'height': '40px',
-            'margin-top': '8px'
-        };
+
         var margin = {
             'margin': '8px'
         };
@@ -144,7 +139,6 @@ var TicTacToe = React.createClass({
             }
             rows.push(columns);
         }
-
 
         var classes = "";
 
